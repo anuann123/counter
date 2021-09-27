@@ -1,0 +1,29 @@
+
+.outer{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 4rem;
+  font-family: cursive;
+  color:#00004d;
+  text-align: center;
+
+
+
+}
+p{
+  color:#29a329;
+  font-size: 8rem;
+}
+
+button{
+width: 250px;
+height:50px;
+font-size: 2rem;
+border-radius: 20px;
+
+}
+
+button:hover{
+  border-color: blue;
+}
